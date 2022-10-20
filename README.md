@@ -28,7 +28,5 @@ https://www.edsm.net/en_GB/
 
 https://elite-dangerous.fandom.com/wiki/Permits 
 
-Submit a ticket to Frontier support: 
-
-https://customersupport.frontier.co.uk/hc/en-us/requests/new
+Submit a ticket to Frontier support: https://customersupport.frontier.co.uk/hc/en-us/requests/new
 

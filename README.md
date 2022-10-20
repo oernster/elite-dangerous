@@ -1,6 +1,7 @@
 # elite-dangerous
 
-Useful links for Elite:Dangerous  
+Useful links for Elite:Dangerous
+
 https://eddb.io/ 
 https://inara.cz/ 
 http://edtools.ddns.net/miner 
